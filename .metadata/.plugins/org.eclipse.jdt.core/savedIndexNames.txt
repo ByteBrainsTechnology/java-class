@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+G:\ByteBrains Technology 2023\JavaWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1420097227.index
+3539220109.index

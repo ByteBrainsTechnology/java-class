@@ -1,0 +1,12 @@
+package com.bytebrains;
+
+public class StringExample5 {
+	public static void main(String[] args) {
+		
+		String s1= "Welcome to ByteBrains Technology";
+		String[] str = s1.split(" ");
+		
+		
+	}
+
+}
