@@ -1,8 +1,0 @@
-package com.bytebrains;
-
-public class StringExample5 {
-	public static void main(String[] args) {
-		
-	}
-
-}
